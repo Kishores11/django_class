@@ -1,0 +1,23 @@
+{
+    "101": {
+        "Name": "kishore",
+        "Age": "21",
+        "Address": "karur",
+        "Phone": "9746104977",
+        "Amount": 8996
+    },
+    "102": {
+        "Name": "prem",
+        "Age": "23",
+        "Address": "delhi",
+        "Phone": "334455",
+        "Amount": 24000
+    },
+    "104": {
+        "Name": "karfi",
+        "Age": "33",
+        "Address": "canada",
+        "Phone": "32323",
+        "Amount": 30000
+    }
+}

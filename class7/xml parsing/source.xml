@@ -1,0 +1,17 @@
+<collection about ="BOOK MY SHOW">
+		<element screen="SCREEN 1">
+				<mname>Bahubali</mname>
+				<mtype>Action</mtype>
+				<duration>3 HRS</duration>
+		</element>
+		<element screen="SCREEN 2">
+				<mname>soorarai potru</mname>
+				<mtype>Action</mtype>
+				<duration>2 HRS</duration>
+		</element>
+      	<element screen="SCREEN 3">
+				<mname>Ayan</mname>
+				<mtype>Action</mtype>
+				<duration>1 HRS</duration>
+		</element>
+</collection>
